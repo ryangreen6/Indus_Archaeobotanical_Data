@@ -8,5 +8,6 @@ This data has been reorganized into two tables, one called `samples.csv` that li
 Bates, J. (2019). The Published Archaeobotanical Data from the Indus Civilisation, South Asia, c.3200–1500BC. Journal of Open Archaeology Data, 7(0), 5. https://doi.org/10.5334/joad.57
 
 The original publication can be found here: https://openarchaeologydata.metajnl.com/articles/10.5334/joad.57#abstract
+
 The original data can be found here: https://doi.org/10.7910/DVN/WSHMAD
 

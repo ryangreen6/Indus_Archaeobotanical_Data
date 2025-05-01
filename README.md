@@ -1,7 +1,7 @@
 # Archaeobotanical Data from the Indus Civilization
 ### A Repository of Jennifer Bates' Published Archaeobotanical Dataset
 
-This repository contains a collection of archaeobotanical samples, compiled by University of Pennsylvania's Jennifer Bates, from across the Indus Valley and dating to the Indus Civilization, c.3200-1500 BCE. 
+This repository contains a collection of archaeobotanical samples, compiled by Seoul National University's Jennifer Bates, from across the Indus Valley and dating to the Indus Civilization, c.3200-1500 BCE. 
 
 This data has been reorganized into two tables, one called `samples.csv` that lists 110 samples from 63 Indus sites, and another called `taxa.csv` that indicates the archaeobotanical results of each sample and the taxa they contain. Bates' original publication is also stored in this repository for context and reference. 
 
